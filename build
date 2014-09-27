@@ -1,0 +1,16 @@
+/*:
+	@build-configuration:
+		{
+			"packageName": "recursively-traverse-directory",
+			"authorName": "Richeve S. Bebedor",
+			"authorEMail": "richeve.bebedor@gmail.com",
+			"repository": "git@github.com:volkovasystems/recursively-traverse-directory.git"
+		}
+	@end-build-configuration
+
+	@build-procedure:
+		[
+			
+		]
+	@end-build-procedure
+*/
